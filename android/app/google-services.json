@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27361311705",
+    "project_id": "authcheck-dee76",
+    "storage_bucket": "authcheck-dee76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27361311705:android:7721aab89f4321752af7c8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27361311705-o6plt6c8j0jn7hd7ffiffparhd2f0324.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwcZASgNSB5fX9UZ-gUZWMyCM9STIdLtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27361311705-o6plt6c8j0jn7hd7ffiffparhd2f0324.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
